@@ -1,6 +1,6 @@
 {
   "name": "operateclass",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "you can add className or remove className at dom",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "dom",
     "addclass",
-    "removeclass"
+    "removeclass",
+    "hasClass"
   ],
   "author": "may",
   "license": "ISC"

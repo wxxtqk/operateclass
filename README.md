@@ -18,3 +18,10 @@ import {removeClass} from 'operateclass'
 removeClass(el, className)
 ```
 
+```javascript
+// Whether there is such a class
+import {hasClass} from 'operateclass'
+// el is the dom
+hasClass(el, className)
+```
+
